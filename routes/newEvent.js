@@ -1,7 +1,10 @@
 const express = require('express');
-const router = express.Router();
+const cors = require('cors');
+const router = express.Router().use(cors());
 
 const queries = require('../queries');
+
+
 
 router.get("/", (request, response, next) => {
     queries.list()
