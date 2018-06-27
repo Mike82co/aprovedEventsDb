@@ -4,7 +4,7 @@ const morgan = require("morgan");
 const app = express();
 
 const event = require("./routes/newEvent");
-
+const cors = require("cors")
 app.use(morgan('dev'));
 app.use(bodyParser.json());
 
