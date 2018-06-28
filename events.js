@@ -2,9 +2,10 @@ module.exports = [{
     id: 1,
     date: "06-30-2018",
     venue: "Hi-Dive",
-    artist: "Justin Beiber",
-    image: "https://pmcvariety.files.wordpress.com/2017/09/justin_bieber.png",
-    description: "Whiny Little Bratt!!",
+    artist: "RUMTUM",
+    image: "https://images1.westword.com/imager/moving-to-denver-has-been-highly-fortuitou/u/745xauto/5122142/9195074.0.jpg",
+    musicSample: "http://soundcloud.com/rumtum-1",
+    description: "Electronic producer / instrumental enthusiast and Visual Artist John Hastings {{{aka}}} RUMTUM has a unique approach to crafting his melodic melodies. May it be his love for native spirits or even sea life, the natural world plays the biggest part in the dynamics of his writing. From a young age his obsession for mixers and knobs grew into a passion for recording with found objects and handmade instruments. While learning drums provided the musical foundation to understand bass and guitar, an amazement of synthesizer and explorations into field recordings continues to inspire his craft.",
 },
 {
     id: 2,
@@ -12,6 +13,7 @@ module.exports = [{
     venue: "Ogden",
     artist: "Slipknot",
     image: "https://images-na.ssl-images-amazon.com/images/I/81lrF8AR%2BtL._SX522_.jpg",
+    musicSample:"",
     description: "Murder Inc.",
 },
 {
@@ -20,5 +22,6 @@ module.exports = [{
     venue: "Filmore",
     artist: "Lady Gaga",
     image: "https://eonlinethumbs-a.akamaihd.net/images/647/471/glam_2018grammys_ladygaga_268370_560x315_1148015171950.jpg",
+    musicSample:"",
     description: "Pop star",
 }]

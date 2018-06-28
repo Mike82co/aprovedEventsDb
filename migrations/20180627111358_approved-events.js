@@ -5,6 +5,7 @@ exports.up = function (knex, Promise) {
         table.text('venue');
         table.text('artist');
         table.text('image');
+        table.text('musicSample')
         table.text('description');
     })
 };
