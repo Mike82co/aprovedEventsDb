@@ -7,10 +7,9 @@ module.exports = [{
     phone:"303-333-3333",
     email:"rumtum@aol.com",
     website:"http://www.wikipedia.com",
-    musicSample: "http://soundcloud.com/rumtum-1",
+    musicSample: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/105119837&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     image: "https://images1.westword.com/imager/moving-to-denver-has-been-highly-fortuitou/u/745xauto/5122142/9195074.0.jpg",
-    description: "Electronic producer / instrumental enthusiast and Visual Artist John Hastings {{{aka}}} RUMTUM has a unique approach to crafting his melodic melodies. May it be his love for native spirits or even sea life, the natural world plays the biggest part in the dynamics of his writing. From a young age his obsession for mixers and knobs grew into a passion for recording with found objects and handmade instruments. While learning drums provided the musical foundation to understand bass and guitar, an amazement of synthesizer and explorations into field recordings continues to inspire his craft.",
-
+    description: "Denver's headiest beatmaker blurs the lines between dance, organic world music, and old-fashioned dope beats."
 },
 {
     id: 2,
@@ -36,5 +35,6 @@ module.exports = [{
     website:"http://www.aol.com",
     musicSample:"https://soundcloud.com/interscope/lady-gaga-applause-official",
     image: "https://eonlinethumbs-a.akamaihd.net/images/647/471/glam_2018grammys_ladygaga_268370_560x315_1148015171950.jpg",
+
     description: "Pop star",
 }]
