@@ -33,8 +33,12 @@ module.exports = [{
     phone:"404-909-8877",
     email:"yes@yes.com",
     website:"http://www.aol.com",
-    musicSample:"https://soundcloud.com/interscope/lady-gaga-applause-official",
+    musicSample:"https://www.youtube.com/embed/bESGLojNYSo?ecver=2",
     image: "https://eonlinethumbs-a.akamaihd.net/images/647/471/glam_2018grammys_ladygaga_268370_560x315_1148015171950.jpg",
 
     description: "Pop star",
 }]
+
+
+
+
