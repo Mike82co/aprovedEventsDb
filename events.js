@@ -7,7 +7,7 @@ module.exports = [{
     phone:"303-333-3333",
     email:"rumtum@aol.com",
     website:"http://www.wikipedia.com",
-    musicSample: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/487462143&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
+    musicSample: "https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/306421714&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true",
     image: "https://images1.westword.com/imager/moving-to-denver-has-been-highly-fortuitou/u/745xauto/5122142/9195074.0.jpg",
     description: "Denver's headiest beatmaker blurs the lines between dance, organic world music, and old-fashioned dope beats."
 },
