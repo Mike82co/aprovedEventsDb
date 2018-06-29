@@ -35,5 +35,5 @@ module.exports = [{
     website:"https://chuckroy.com/",
     musicSample:"https://www.youtube.com/embed/y62AzEECTtk?ecver=2",
     image: "https://chuckroy.com/wp-content/uploads/2016/10/ChuckRoy-com-MainPage.jpg",
-    description: "Pop star",
+    description: "Chuck Roy is best known for his stand-up comedy.  That’s why comedy stars, including Louie Anderson and Ralphie May, feature Chuck in their movies and stand-up comedy specials. Chuck is the teacher of Comedy at the Community College of Denver. He also hosts and produces Colorado Comedy Shows.  Read on to discover more about Chuck Roy and his campaign to change the world with laughter!",
 }]
