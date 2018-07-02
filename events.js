@@ -1,6 +1,6 @@
 module.exports = [{
     id: 1,
-    date: "06-30-2018",
+    date: "9-12-2019",
     artist:"RUMTUM",
     venue: "Hi-Dive",
     contactName: "Rummer Tummer",
@@ -13,7 +13,7 @@ module.exports = [{
 },
 {
     id: 2,
-    date: "06-28-2018",
+    date: "10-22-2019",
     artist:"Pueblo Escobar",
     venue: "Ogden",
     contactName: "Peter Chun",
@@ -26,7 +26,7 @@ module.exports = [{
 },
 {
     id: 3,
-    date: "06-15-2018",
+    date: "11-15-2019",
     artist: "Chuck Roy",
     venue: "Filmore",
     contactName:"Chuck Roy",
